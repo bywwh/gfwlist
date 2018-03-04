@@ -26,7 +26,7 @@ WARNING:
 
 ---
 
-GFWList URL(Github): https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+GFWList URL(Github): https://raw.githubusercontent.com/bywwh/gfwlist/master/gfwlist.txt
 
 GFWList URL(Backup): http://gfwli.st/gfwlist.txt
 
